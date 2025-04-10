@@ -6,7 +6,7 @@ IGMamba is a general multi-network model based on the Mamba-CNN for biomedical i
 git clone https://github.com/Brainsmatics/IGMamba
 ```
 ```
-pip install -r requirements.txt
+conda env create -f environment.yml
 ```
 ## Prepare the dataset
 ```text
