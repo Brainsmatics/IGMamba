@@ -1,3 +1,2 @@
-# IGMamba-Net: Inverse External with Gated
-Attention Driven Mamba-CNN for Biomedical
-Image Segmentation
+# IGMamba-Net: Inverse External with Gated Attention Driven Mamba-CNN for Biomedical Image Segmentation
+# Introduction
