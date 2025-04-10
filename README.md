@@ -29,4 +29,4 @@ python train.py
 python test.py 
 ```
 ## Acknowledgement
-Some code is reused from the([VM-UNet](https://github.com/JCruan519/VM-UNet)).、External_Attention、MALUNet.
+Some code is reused from the([VM-UNet](https://github.com/JCruan519/VM-UNet))、([External_Attention](https://arxiv.org/abs/2105.02358))、([MALUNet](https://github.com/JCruan519/MALUNet)).
