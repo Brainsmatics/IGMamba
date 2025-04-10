@@ -28,3 +28,5 @@ cd IGMamba
 python train.py  
 python test.py 
 ```
+## Acknowledgement
+Some code is reused from the Vmunet、External_Attentio、MALUNet.
